@@ -1,7 +1,7 @@
 {
     "author": "Iminthebibleson",
     "name": "Iminthebibleson CLient For Ev.io",
-    "description": "an extention for ev.io (just click extention icon to play.)",
+    "description": "an extension for ev.io (just click extension icon to play.)",
     "manifest_version": 3,
     "version": "1.0",
     "chrome_url_overrides": {
