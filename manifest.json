@@ -1,0 +1,22 @@
+{
+    "author": "Iminthebibleson",
+    "name": "Iminthebibleson CLient For Ev.io",
+    "description": "an extention for ev.io (just click extention icon to play.)",
+    "manifest_version": 3,
+    "version": "1.0",
+    "chrome_url_overrides": {
+        "newtab": "index.html"
+    },
+    "action": {
+        "default_icon": {
+            "128": "icon.png"
+        }
+    },
+    "background": {
+        "service_worker": "js/background.js"
+    },
+    "permissions": [],
+    "icons": {
+        "128": "icon.png"
+    }
+}
